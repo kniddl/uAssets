@@ -1,5 +1,5 @@
 ! uMatrix: Ruleset recipes 1.0
-! Title: Rulesets for English websites
+! Title: Rulesets for English websites (mod)
 ! Maintainer: uMatrix
 !
 ! Lines starting with character "!" are ignored.
