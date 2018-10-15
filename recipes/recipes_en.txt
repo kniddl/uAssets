@@ -113,7 +113,7 @@ Google Maps
 		! needed for satellite view
 		no-workers: _ false
 
-Google reCaptcha
+Google reCaptcha (mod)
 	* www.google.com
 		_ www.google.com *
 		_ www.google.com script
