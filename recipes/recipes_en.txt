@@ -118,8 +118,13 @@ Google reCaptcha
 		_ www.google.com *
 		_ www.google.com script
 		_ www.google.com frame
+		_ www.google.com xhr
+		_ www.google.com css
+		_ www.google.com image
 		_ www.gstatic.com *
 		_ www.gstatic.com script
+		_ www.gstatic.com image
+		_ www.gstatic.com css
 
 IMDb
 	imdb.com *
