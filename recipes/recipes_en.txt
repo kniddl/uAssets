@@ -125,7 +125,7 @@ Google reCaptcha (mod)
 		_ www.gstatic.com script
 		_ www.gstatic.com image
 		_ www.gstatic.com css
-		no-wokers: _ false
+		no-workers: _ false
 
 IMDb
 	imdb.com *
