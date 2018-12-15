@@ -1,0 +1,26 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Rulesets for English websites (mod)
+! Maintainer: uMatrix
+!
+! Lines starting with character "!" are ignored.
+! Character "_" is an alias for "currently selected scope".
+! An empty line MUST be used to separate distinct ruleset recipes.
+!
+! Please contribute ruleset recipes for the benefit of all other users:
+! https://github.com/uBlockOrigin/uAssets/tree/master/recipes
+
+
+
+Google reCaptcha (modified)
+	* www.google.com
+		_ www.google.com *
+		_ www.google.com script
+		_ www.google.com frame
+		_ www.google.com xhr
+		_ www.google.com css
+		_ www.google.com image
+		_ www.gstatic.com *
+		_ www.gstatic.com script
+		_ www.gstatic.com image
+		_ www.gstatic.com css
+		no-workers: _ false
